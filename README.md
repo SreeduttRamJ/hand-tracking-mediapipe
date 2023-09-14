@@ -29,7 +29,7 @@ Follow these steps to get started with the project:
 2. Navigate to the project directory:
 
    ```bash
-   cd hand-tracking-mediapipe
+   cd hand-tracking-mediapipe/code
    ```
 
 3. Run the script:
